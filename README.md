@@ -21,7 +21,7 @@
 在任意支持技能的 AI 助手软件（千问办公、QwenWork、豆包等）聊天框输入：
 
 ```text
-安装技能 https://github.com/<你的用户名>/GB2MD
+安装技能 https://github.com/hcbjohn/GB2MD
 ```
 
 或手动下载本仓库 ZIP（Code → Download ZIP）解压后导入技能文件夹。
